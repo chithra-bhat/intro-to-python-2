@@ -1,5 +1,17 @@
 # Udacity - Introduction to Programming with Python
 
+## Course Projects
+
+- **Photo Problem**: Organize photo files based on their descriptions, sorting them into respective folders.
+- **Profanity Filter**: Replace offensive words in a text with asterisks (\*\*\*\*).
+- **Final Project: Rock Paper Scissors**: Implement the classic game, allowing players to choose their moves and determine the winner.
+
+## Getting Started
+
+```bash
+# Clone the repository
+git clone https://github.com/chithra-bhat/intro-to-python-2.git
+
 ## Final Project - Rock Paper Scissors
 The game of Rock Paper Scissors is a classic game played worldwide. It involves two players, each choosing one of three moves or "throws" — rock, paper, or scissors — in each round. Then, players reveal their moves at the same time. The following rules determine the outcome of each round:
 
