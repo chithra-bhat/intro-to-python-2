@@ -1,4 +1,4 @@
-# Udacity - Introduction to Programming with Python II Nanodegree
+# Udacity - Introduction to Programming with Python
 
 ## Final Project - Rock Paper Scissors
 The game of Rock Paper Scissors is a classic game played worldwide. It involves two players, each choosing one of three moves or "throws" — rock, paper, or scissors — in each round. Then, players reveal their moves at the same time. The following rules determine the outcome of each round:
@@ -35,7 +35,7 @@ To get started with the game, follow these steps:
 git clone https://github.com/chithra-bhat/intro-to-python-2.git
 
 # Navigate into the directory
-cd 3_rock_paper_scissors
+cd rock_paper_scissors
 
 # Run the game
 python rps.py
