@@ -4,7 +4,7 @@
 
 - **Photo Problem**: Organize photo files based on their descriptions, sorting them into respective folders.
 - **Profanity Filter**: Replace offensive words in a text with asterisks (\*\*\*\*).
-- **Final Project: Rock Paper Scissors** - Implement the classic game, allowing players to choose their moves and determine the winner.
+- **Rock Paper Scissors**: Implement the classic game, allowing players to choose their moves and determine the winner.
 
 
 ## Final Project - Rock Paper Scissors
